@@ -8,7 +8,7 @@ Typically spend the first half of the time lecturing on ideas or basic concepts.
 
 ## Upcoming lessons:
 
-Within 2 weeks: 
+__Within 2 weeks:__ 
 
 Computer Vision - how does the basics work and how to get off the ground with OpenCV. Most likely the project will be on using a bounding box to detect objects....(Lots of basic ideas).
 Tensorflow: How it works and how to use it. From here we can move on to neural nets and from there if there is interest we can talk about the specialized nets (i.e. RNN, CNN, LSTM nodes)
