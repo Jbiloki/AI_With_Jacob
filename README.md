@@ -18,4 +18,4 @@ Tensorflow: How it works and how to use it. From here we can move on to neural n
 
 __Lessons will vary I will be adding a schedule here for what I plan to do for the week__
 
-11/9/2017: Expect a lesson in computer vision most likely the bounding box classification but it will vary depending on my time to set up tonight.
+11/9/2017: Expect a lesson in neural networks, covering the basics and tensorflow.
