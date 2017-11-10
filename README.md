@@ -1,4 +1,4 @@
-# AI_With_Jacob: Learn AI Thursdays at 3pm-7pm CS-209 CSUF.
+# AI_With_Jacob: Learn AI Thursdays at 4pm-7pm CS-209 CSUF.
 
 This is a class I teach at Cal State University Fullerton, as a passionate project. The school did not ask me to do this and I am not paid I just want to help others experience and have the opportunity to learn the thigns I love to do.
 
